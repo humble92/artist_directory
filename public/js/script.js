@@ -1,5 +1,5 @@
 //configuration
-const server = "http://localhost:3000";
+const server = "";
 
 //executed on load, to avoid global variables
 (function() {
